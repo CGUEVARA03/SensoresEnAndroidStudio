@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensoresEnAndroidStudio</string>
+    <string name="nombre">Inserte su nombre</string>
+    <string name="info1">En este proyecto lo unico que debe hacer es:</string>
+    <string name="info2">1 - Escribir su nombre o algun texto</string>
+    <string name="info3">2 - Para enviar la info incline a la derecha</string>
+    <string name="info4">3 - Para reiniciar la info pase la mano por encima</string>
+</resources>
